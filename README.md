@@ -7,5 +7,7 @@ Web application build using OCR (optical character recognition) to recognize an 
 
 **Template - ejs**
 
+![screenshot](https://user-images.githubusercontent.com/71589526/145940398-ce9061e1-8cca-4d6a-bd9b-ded0cce7586d.PNG)
+
 
 
